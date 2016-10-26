@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Space()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ Started()
+comment3.params=
+comment3.target=void\ spawnBaddies()
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ This\ method\ is\ called\ when\ the\ game\ is\ over\ to\ display\ the\ final\ score.\r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage[]\ getExplosion()
+numComments=6
